@@ -1,14 +1,17 @@
 * {
     box-sizing: border-box;
+    margin: 0 auto;
   }
   
   body {
     padding: 30px;
+    background-image: url("https://content.wepik.com/statics/44751810/preview-page0.jpg");
+    background-size: cover;
   }
   
   .brand {
     font-family: "Snell Roundhand";
-    font-weight: normal;
+    font-weight: 600;
     font-size: 60px;
     text-align: center;
   }
@@ -95,3 +98,4 @@
   .section-link:hover {
     text-decoration: underline;
   }
+  
